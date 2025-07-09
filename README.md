@@ -1,6 +1,4 @@
-Voici un exemple complet de **`README.md`** pour votre projet sur Kaggle, basé sur l'utilisation de **Whisper** ou **MMS** pour la transcription automatique en langue **Fon**.
 
----
 
 # 🎧 Projet de Transcription Audio en Langue Fon
 
