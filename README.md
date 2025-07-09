@@ -103,18 +103,4 @@ Les transcriptions sont sauvegardées dans `/results/final_transcriptions.csv`. 
 - [HuggingFace MMS Model](https://huggingface.co/facebook/mms-300m)
 - [Kaggle Dataset – Fon Audios Raw](https://www.kaggle.com/datasets/beethoo/fon-audios-raw)
 
-## 🤝 Contribution
 
-Toute contribution visant à améliorer la reconnaissance du Fon est la bienvenue !  
-- Ajout de nouveaux lexiques
-- Amélioration du code
-- Support pour d’autres langues africaines
-
----
-
-Souhaitez-vous que je génère également :
-- Un **fichier `.md` téléchargeable**
-- Une version **adaptée à Kaggle Dataset**
-- Des scripts complets (`extract_fon_dataset.py`, `transcribe_audio.py`) ?
-
-👉 Répondez-moi, je peux tout vous livrer prêt à déployer 👇
